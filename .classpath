@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Nathan/Documents/Projects/uos-contacttracing-datamanager-java/out/production/uos-contacttracing-datamanager-java"/>
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/org/junit/jupiter/junit-jupiter/5.4.2/junit-jupiter-5.4.2.jar"/>
+	<classpathentry kind="output" path="out/production/uos-contacttracing-gui-java"/>
+</classpath>
